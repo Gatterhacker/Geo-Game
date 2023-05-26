@@ -6,7 +6,7 @@ The Python program is an engaging geography game that challenges players to gues
 2. [ General Information ](#desc)
 3. [ Technologies/Setup ](#usage)
 4. [ Code Structure ](#code)
-5. [ Disclaimer ](#discl)
+5. [ References ](#ref)
 
 
 <a name="memb"></a>
