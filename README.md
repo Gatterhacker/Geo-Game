@@ -27,3 +27,7 @@ This student project "Geography Game" is part of the course "Programming - Intro
 
 <a name="ref"></a>
 ## 4. References
+
+### Rest Countries:
+
+```rest countries```  is an source to get information about countries via a RESTful API
