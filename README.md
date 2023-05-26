@@ -23,7 +23,7 @@ This student project "Geography Game" is part of the course "Programming - Intro
 ## 3. Technologies/Setup
 - Python version: Python 3.11.2
 - This code was written in Google Colaboratory.
-- Required libraries: ```requests```, ```random as rd```, ```matplotlib.pyplot as plt
+- Required libraries: ```requests```, ```random as rd```, ```matplotlib.pyplot as plt```
 
 <a name="ref"></a>
 ## 4. References
