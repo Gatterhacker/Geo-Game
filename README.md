@@ -1,6 +1,6 @@
 # Group Project: Geography Game by MPQSASNA
 
-The Python program is an engaging geography game that challenges players to guess the capitals of various countries. With multiple difficulty levels, ranging from easy to hard, players can test their knowledge and improve their geographical awareness. Whether you're a beginner or an expert, this program offers an exciting opportunity to enhance your knowledge of world capitals and expand your understanding of global geography. Get ready to embark on a journey of discovery and test your skills in this captivating geography game!
+The Python program is an engaging geography game that challenges players to guess the capitals of various countries. With two difficulty levels, easy and hard, players can test their knowledge and improve their geographical awareness. Whether you're a beginner or an expert, this program offers an exciting opportunity to enhance your knowledge of world capitals and expand your understanding of global geography. Get ready to embark on a journey of discovery and test your skills in this captivating geography game!
 
 1. [ Group Project Members ](#memb)
 2. [ General Information ](#desc)
