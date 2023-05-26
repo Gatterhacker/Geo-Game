@@ -25,5 +25,5 @@ This student project "Geography Game" is part of the course "Programming - Intro
 - This code was written in Google Colaboratory.
 - Required libraries: requests, random as rd, matplotlib.pyplot as plt
 
-<a name="code"></a>
-## 4. Code Structure
+<a name="ref"></a>
+## 4. References
