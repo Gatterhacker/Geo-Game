@@ -12,7 +12,7 @@ The Python program is an engaging geography game that challenges players to gues
 <a name="memb"></a>
 ## 1. Group Project Members
 - Luc Scherrer
-- Frederik Ohle
+- Frederick Ohle
 - Matteo Jutzi
 - Steve Federlechner
 
